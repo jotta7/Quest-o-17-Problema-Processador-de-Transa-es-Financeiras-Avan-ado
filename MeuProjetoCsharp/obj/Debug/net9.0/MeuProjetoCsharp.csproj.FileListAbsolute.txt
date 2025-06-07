@@ -1,0 +1,14 @@
+C:\Users\jorge lucas\MeuProjetoCsharp\bin\Debug\net9.0\MeuProjetoCsharp.exe
+C:\Users\jorge lucas\MeuProjetoCsharp\bin\Debug\net9.0\MeuProjetoCsharp.deps.json
+C:\Users\jorge lucas\MeuProjetoCsharp\bin\Debug\net9.0\MeuProjetoCsharp.runtimeconfig.json
+C:\Users\jorge lucas\MeuProjetoCsharp\bin\Debug\net9.0\MeuProjetoCsharp.dll
+C:\Users\jorge lucas\MeuProjetoCsharp\bin\Debug\net9.0\MeuProjetoCsharp.pdb
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\MeuProjetoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\MeuProjetoCsharp.AssemblyInfoInputs.cache
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\MeuProjetoCsharp.AssemblyInfo.cs
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\MeuProjetoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\MeuProjetoCsharp.dll
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\refint\MeuProjetoCsharp.dll
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\MeuProjetoCsharp.pdb
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\MeuProjetoCsharp.genruntimeconfig.cache
+C:\Users\jorge lucas\MeuProjetoCsharp\obj\Debug\net9.0\ref\MeuProjetoCsharp.dll
