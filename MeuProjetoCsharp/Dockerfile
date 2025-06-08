@@ -15,4 +15,4 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Define o comando de início
-ENTRYPOINT ["dotnet", "MeuProjetoCsharp"]
+ENTRYPOINT ["dotnet", "MeuProjetoCsharp.dll"]
